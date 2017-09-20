@@ -1,0 +1,4 @@
+* Construction Costs
+** TODO Generate Construction Draw template from Construction Costs, Construction Months and Analysis Begin Date :xlwings:
+*** 
+** Creating the Construction Schedule
